@@ -1,35 +1,1902 @@
 [
   {
-    "id": "KLAVIYO-TSHIRT1",
-    "title": "Classic Klaviyo T-Shirt 1",
-    "link": "https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
-    "description": "Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
-    "price": 10,
-    "image_link": "https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
-    "categories": ["apparel", "t-shirt", "new-arrival", "swag"],
-    "inventory_quantity": 25,
-    "inventory_policy": 1
+    "id": 0,
+    "name": "The Courtney Evening Gown",
+    "slug": "the-courtney-evening-gown",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/the-courtney-evening-gown",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "HUY653",
+    "price": "79.00",
+    "regular_price": "99.99",
+    "sale_price": "79.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "women collection",
+        "slug": "women-collection"
+      },
+      {
+        "id": 2,
+        "name": "summer discount",
+        "slug": "summer-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "night dress",
+        "slug": "night-dress"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/281b8ac538e538c012f53b97abf7b7d1.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/1"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
   },
   {
-    "id": "KLAVIYO-TSHIRT2",
-    "title": "Classic Klaviyo T-Shirt 2",
-    "link": "https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
-    "description": "Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
-    "price": 10,
-    "image_link": "https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
-    "categories": ["apparel", "t-shirt", "new-arrival", "swag"],
-    "inventory_quantity": 30,
-    "inventory_policy": 1
+    "id": 1,
+    "name": "The Alejandra Evening Gown",
+    "slug": "the-alejandra-evening-gown",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/the-alejandra-evening-gown",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "HFY467",
+    "price": "167.99",
+    "regular_price": "167.99",
+    "sale_price": "129.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "women collection",
+        "slug": "women-collection"
+      },
+      {
+        "id": 2,
+        "name": "summer discount",
+        "slug": "summer-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "night dress",
+        "slug": "night-dress"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/9468c7aeadb74e999e387c6dda995ead.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/2"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
   },
   {
-    "id": "KLAVIYO-TSHIRT3",
-    "title": "Classic Klaviyo T-Shirt 3",
-    "link": "https://klaviyogear.myshopify.com/collections/klaviyo-classics/products/short-sleeve-t-shirt-1",
-    "description": "Standard issue for all Klaviyos. This t-shirt has the Klaviyo logo on the front and mark diagram on the back.",
-    "price": 10,
-    "image_link": "https://www.klaviyo.com/media/images/examples/products/klaviyo-tshirt-thumbnail.png",
-    "categories": ["apparel", "t-shirt", "new-arrival", "swag"],
-    "inventory_quantity": 0,
-    "inventory_policy": 1
+    "id": 2,
+    "name": "Aleena Patent Slide Sandals",
+    "slug": "aleena-patent-slide-sandals",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/aleena-patent-slide-sandals",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "JKE738",
+    "price": "145.99",
+    "regular_price": "145.99",
+    "sale_price": "145.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "women collection",
+        "slug": "women-collection"
+      },
+      {
+        "id": 2,
+        "name": "summer discount",
+        "slug": "summer-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "female footwear",
+        "slug": "female-footwear"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/Aleena_Patent_Slide_Sandals.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/2"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Anny Patent Leather Pointed Pumps",
+    "slug": "anny-patent-leather-pointed-pumps",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/anny-patent-leather-pointed-pumps",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "YAO145",
+    "price": "135.99",
+    "regular_price": "135.99",
+    "sale_price": "135.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "women collection",
+        "slug": "women-collection"
+      },
+      {
+        "id": 2,
+        "name": "winter discount",
+        "slug": "winter-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "female footwear",
+        "slug": "female-footwear"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/Anny_Patent_Leather_Pointed_Pumps.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/2"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Cindy Patent Leather Mid Heel Pumps",
+    "slug": "cindy-patent-leather-mid-heel-pumps",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/cindy-patent-leather-mid-heel-pumps",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "AQP912",
+    "price": "155.99",
+    "regular_price": "155.99",
+    "sale_price": "155.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "women collection",
+        "slug": "women-collection"
+      },
+      {
+        "id": 2,
+        "name": "winter discount",
+        "slug": "winter-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "female footwear",
+        "slug": "female-footwear"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/Cindy_Patent_Leather_Mid-Heel_Pumps.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/5"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Gabby Metallic Leather Bow Flats",
+    "slug": "gabby-metallic-leather-bow-flats",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/gabby-metallic-leather-bow-flats",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "KLU477",
+    "price": "113.99",
+    "regular_price": "113.99",
+    "sale_price": "113.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "women collection",
+        "slug": "women-collection"
+      },
+      {
+        "id": 2,
+        "name": "winter discount",
+        "slug": "winter-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "female footwear",
+        "slug": "female-footwear"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/Gabby_Metallic_Leather_Bow_Flats.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/6"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Grey Wool Sports Coat",
+    "slug": "grey-wool-sports-coat",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/grey-wool-sports-coat",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "THE536",
+    "price": "198.99",
+    "regular_price": "198.99",
+    "sale_price": "198.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "men collection",
+        "slug": "men-collection"
+      },
+      {
+        "id": 2,
+        "name": "winter discount",
+        "slug": "winter-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "men blazer",
+        "slug": "men-blazer"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/Grey_Wool_Sports_Coat.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/7"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "name": "Konan Trim Fit Windowpane Wool Sport Coat In Grey",
+    "slug": "konan-trim-fit-windowpane-wool-sport-coat-in-grey",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/konan-trim-fit-windowpane-wool-sport-coat-in-grey",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "QNC016",
+    "price": "178.99",
+    "regular_price": "178.99",
+    "sale_price": "178.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "men collection",
+        "slug": "men-collection"
+      },
+      {
+        "id": 2,
+        "name": "winter discount",
+        "slug": "winter-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "men blazer",
+        "slug": "men-blazer"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/Konan_Trim_Fit_Windowpane_Wool_Sport_Coat_In_Grey.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/8"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "name": "Pink Blazer",
+    "slug": "pink-blazer",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/pink-blazer",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "GHU134",
+    "price": "145.99",
+    "regular_price": "145.99",
+    "sale_price": "145.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "men collection",
+        "slug": "men-collection"
+      },
+      {
+        "id": 2,
+        "name": "summer discount",
+        "slug": "summer-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "men blazer",
+        "slug": "men-blazer"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/Pink_Blazer.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/10"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "name": "Sliesse 100mm Suede Cork Heel Platform",
+    "slug": "sliesse-100mm-suede-cork-heel-platform",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/sliesse-100mm-suede-cork-heel-platform",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "KAI910",
+    "price": "155.99",
+    "regular_price": "155.99",
+    "sale_price": "155.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "women collection",
+        "slug": "women-collection"
+      },
+      {
+        "id": 2,
+        "name": "summer discount",
+        "slug": "summer-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "female footwear",
+        "slug": "female-footwear"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/Sliesse_100mm_Suede_Cork-Heel_Platform.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/11"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "name": "Sliesse 130mm Metallic Velvet",
+    "slug": "sliesse-130mm-metallic-velvet",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/sliesse-130mm-metallic-velvet",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "KAY420",
+    "price": "175.99",
+    "regular_price": "175.99",
+    "sale_price": "175.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "women collection",
+        "slug": "women-collection"
+      },
+      {
+        "id": 2,
+        "name": "summer discount",
+        "slug": "summer-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "female footwear",
+        "slug": "female-footwear"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/Sliesse_130mm_Metallic_Velvet.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/12"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "name": "Stretch Slim Fit Sports Coat",
+    "slug": "stretch-slim-fit-sports-coat",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/stretch-slim-fit-sports-coat",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "KAY420",
+    "price": "195.99",
+    "regular_price": "195.99",
+    "sale_price": "195.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "women collection",
+        "slug": "women-collection"
+      },
+      {
+        "id": 2,
+        "name": "summer discount",
+        "slug": "summer-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "female footwear",
+        "slug": "female-footwear"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/Stretch_Slim_Fit_Sports_Coat.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/13"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "name": "Top Slim Fit Sports Coat",
+    "slug": "top-slim-fit-sports-coat",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/top-slim-fit-sports-coat",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "UYT356",
+    "price": "142.99",
+    "regular_price": "142.99",
+    "sale_price": "142.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "men collection",
+        "slug": "men-collection"
+      },
+      {
+        "id": 2,
+        "name": "summer discount",
+        "slug": "summer-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "blazer",
+        "slug": "blazer"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/Top_Slim_Fit_Sports_Coat.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/14"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "name": "The Madison Evening Gown",
+    "slug": "the-madison-evening-gown",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/the-madison-evening-gown",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "JKE345",
+    "price": "162.99",
+    "regular_price": "162.99",
+    "sale_price": "162.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "women collection",
+        "slug": "women-collection"
+      },
+      {
+        "id": 2,
+        "name": "summer discount",
+        "slug": "summer-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "night dress",
+        "slug": "night-dress"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/a2998019ecc8442bbaf801d7a8ab8e66.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/16"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "name": "The Janice Cocktail Dress",
+    "slug": "the-janice-cocktail-dress",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/the-janice-cocktail-dress",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "YUE009",
+    "price": "133.99",
+    "regular_price": "133.99",
+    "sale_price": "133.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "women collection",
+        "slug": "women-collection"
+      },
+      {
+        "id": 2,
+        "name": "summer discount",
+        "slug": "summer-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "evening dress",
+        "slug": "evening-dress"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/aa032245544bc2e94bd8cc9a7efd6146.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/17"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "name": "The Katie Cocktail Dress",
+    "slug": "the-katie-cocktail-dress",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/the-katie-cocktail-dress",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "RUE109",
+    "price": "144.99",
+    "regular_price": "144.99",
+    "sale_price": "144.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "women collection",
+        "slug": "women-collection"
+      },
+      {
+        "id": 2,
+        "name": "summer discount",
+        "slug": "summer-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "evening dress",
+        "slug": "evening-dress"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/bf7ab2288e23cd4837b8a6cf2b554c9d.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/18"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "name": "The Katie Cocktail Dress",
+    "slug": "the-katie-cocktail-dress",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/awesome-product",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "RUE109",
+    "price": "144.99",
+    "regular_price": "144.99",
+    "sale_price": "144.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "women collection",
+        "slug": "women-collection"
+      },
+      {
+        "id": 2,
+        "name": "summer discount",
+        "slug": "summer-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "evening dress",
+        "slug": "evening-dress"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/bf7ab2288e23cd4837b8a6cf2b554c9d.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/18"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "name": "The Emily Evening Gown",
+    "slug": "the-emily-evening-gown",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/the-emily-evening-gown",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "UYO349",
+    "price": "156.99",
+    "regular_price": "156.99",
+    "sale_price": "156.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "women collection",
+        "slug": "women-collection"
+      },
+      {
+        "id": 2,
+        "name": "summer discount",
+        "slug": "summer-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "evening dress",
+        "slug": "evening-dress"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/c0dc3315cd99b3e0b82cf30444afcc3c.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/19"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "name": "The Courtney Cocktail Dress",
+    "slug": "the-courtney-cocktail-dress",
+    "permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/the-courtney-cocktail-dress",
+    "date_created": "2020-07-22T11:43:39",
+    "date_created_gmt": "2020-07-22T11:43:39",
+    "date_modified": "2020-07-22T11:44:03",
+    "date_modified_gmt": "2020-07-22T11:44:03",
+    "type": "simple",
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "<p>this is my awesome product, buy it!</p>\n",
+    "short_description": "",
+    "sku": "TYE356",
+    "price": "126.99",
+    "regular_price": "126.99",
+    "sale_price": "126.99",
+    "date_on_sale_from": "None",
+    "date_on_sale_from_gmt": "None",
+    "date_on_sale_to": "None",
+    "date_on_sale_to_gmt": "None",
+    "price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+    "on_sale": true,
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "downloads": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "external_url": "",
+    "button_text": "",
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": "None",
+    "stock_status": "instock",
+    "backorders": "no",
+    "backorders_allowed": false,
+    "backordered": false,
+    "sold_individually": false,
+    "weight": "",
+    "dimensions": {
+      "length": "",
+      "width": "",
+      "height": ""
+    },
+    "shipping_required": true,
+    "shipping_taxable": true,
+    "shipping_class": "",
+    "shipping_class_id": 0,
+    "reviews_allowed": true,
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "related_ids": [],
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "purchase_note": "",
+    "categories": [
+      {
+        "id": 1,
+        "name": "women collection",
+        "slug": "women-collection"
+      },
+      {
+        "id": 2,
+        "name": "summer discount",
+        "slug": "summer-discount"
+      }
+    ],
+    "tags": [
+      {
+        "id": 3,
+        "name": "evening dress",
+        "slug": "evening-dress"
+      }
+    ],
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/dea513bafee50b951c08af6b74bac44c.jpg",
+    "attributes": [],
+    "default_attributes": [],
+    "variations": [],
+    "grouped_products": [],
+    "menu_order": 0,
+    "meta_data": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/20"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+        }
+      ]
+    }
   }
 ]
