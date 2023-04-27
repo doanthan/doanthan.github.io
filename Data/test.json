@@ -14,7 +14,8 @@
     "currencyCode": "AUD",
     "value": 2286,
     "price": 1199,
-    "trackingPrice": 1199
+    "trackingPrice": 1199,
+    "categories": ["Hotels & Resorts"]
   },
   {
     "id": "0062y00000DoJKEAA3",
@@ -29,7 +30,8 @@
     "currencyCode": "AUD",
     "value": 5715,
     "price": 2799,
-    "trackingPrice": 2799
+    "trackingPrice": 2799,
+    "categories": ["Ships"]
   },
   {
     "id": "0062y00000C4yRyAAJ",
@@ -46,7 +48,8 @@
     "currencyCode": "AUD",
     "value": 2560,
     "price": 1439,
-    "trackingPrice": 1199
+    "trackingPrice": 1199,
+    "categories": ["Hotels & Resorts", "Ships"]
   },
   {
     "id": "0062y00000DoJKEAA3",
@@ -61,7 +64,8 @@
     "currencyCode": "AUD",
     "value": 5715,
     "price": 2799,
-    "trackingPrice": 2799
+    "trackingPrice": 2799,
+    "categories": ["Hotels & Resorts", "Ships", "Pandas"]
   },
   {
     "id": "0062y00000C4yRyAAJ",
@@ -78,7 +82,8 @@
     "currencyCode": "AUD",
     "value": 2286,
     "price": 1199,
-    "trackingPrice": 1199
+    "trackingPrice": 1199,
+    "categories": ["Ships", "Pandas"]
   },
   {
     "id": "0062y00000DoJKEAA3",
@@ -94,6 +99,7 @@
     "value": 5715,
     "price": 2799,
     "trackingPrice": 2799,
-    "inclusionsAmount": 0
+    "inclusionsAmount": 0,
+    "categories": ["Pandas"]
   }
 ]
