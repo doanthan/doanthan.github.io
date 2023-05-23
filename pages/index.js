@@ -1,38 +1,64 @@
 import styles from "../styles/Home.module.css";
 import Link from "next/link";
 import { Button, Input, Col, InputGroup, Form } from "reactstrap";
-import { ITEM_LIST } from "data/items";
 import { useState, useEffect } from "react";
+import axios from "axios";
 
 export default function Home() {
-  const [_learnq, setLearnq] = useState([]);
-  useEffect(() => {
-    var _learnq = window._learnq || [];
-    _learnq.push([
-      "identify",
-      {
-        // Change the line below to dynamically print the user's email.
-        $email: "doanthan@gmail.com",
-        george: "George",
-        test: "Washington",
-      },
-    ]);
-    console.log(window._learnq);
-  }, []);
 
-  function handleSubmit(event) {
-    event.preventDefault();
-    // console.log(event.currentTarget.elements.email.value);
-    console.log(_learnq);
-    _learnq.push([
-      "identify",
-      {
-        // Change the line below to dynamically print the user's email.
-        $email: event.currentTarget.elements.email.value,
-        george: "George",
-        test: "Washington",
-      },
-    ]);
+  var _learnq = _learnq || [];
+
+  const emails = ["doanthan@gmail.com", "doan.than@klaviyo.com"]
+
+
+
+  const onSubmit = async () => {
+    try {
+      await axios.post(
+        "https://a.klaviyo.com/client/events/?company_id=Pe5Xw6", {
+        data: {
+          type: "event",
+          attributes: {
+            profile: {
+              email: "doanthan@gmail.com"
+            },
+            metric: {
+              name: "WelcomeEmail"
+            },
+            properties: {
+              type: "HELLO WORLD"
+            }
+          }
+        }
+      }
+      );
+    } catch (error) {
+      console.log(error.message)
+    }
+
+    // emails.map(async (email) => {
+
+
+
+    //   // await axios.post(
+    //   //   "https://a.klaviyo.com/client/events/?company_id=Pe5Xw6", {
+    //   //   "data": {
+    //   //     "type": "event",
+    //   //     "attributes": {
+    //   //       "profile": {
+    //   //         "email": email
+    //   //       },
+    //   //       "metric": {
+    //   //         "name": "WelcomeEmail"
+    //   //       },
+    //   //       "properties": {
+    //   //         "type": "HELLO WORLD"
+    //   //       }
+    //   //     }
+    //   //   }
+    //   // }
+    //   // );
+    // })
   }
-  return <>Hello world!</>;
+  return <button onClick={onSubmit}>Hello world!</button>;
 }
