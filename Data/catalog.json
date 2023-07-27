@@ -12,7 +12,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 51.01,
-    "regular_price": 5,
+    "week_price": 5,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -29,7 +29,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 51.01,
-    "": 5,
+    "week_price": 5,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -46,7 +46,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 51.01,
-    "": 5,
+    "week_price": 5,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -63,7 +63,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 550.01,
-    "": 110,
+    "week_price": 110,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -80,7 +80,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 550.01,
-    "": 110,
+    "week_price": 110,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -97,7 +97,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 550.01,
-    "": 110,
+    "week_price": 110,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -114,7 +114,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 550.01,
-    "": 110,
+    "week_price": 110,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -131,7 +131,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 550.01,
-    "": 110,
+    "week_price": 110,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -148,7 +148,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 550.01,
-    "": 110,
+    "week_price": 110,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -165,7 +165,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 550.01,
-    "": 110,
+    "week_price": 110,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -182,7 +182,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 550.01,
-    "": 110,
+    "week_price": 110,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -199,7 +199,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 550.01,
-    "": 110,
+    "week_price": 110,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -216,7 +216,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 550.01,
-    "": 110,
+    "week_price": 110,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -233,7 +233,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 550.01,
-    "": 110,
+    "week_price": 110,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -250,7 +250,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -267,7 +267,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -284,7 +284,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -301,7 +301,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -318,7 +318,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -335,7 +335,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -352,7 +352,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -369,7 +369,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -386,7 +386,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -403,7 +403,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -420,7 +420,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -437,7 +437,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -454,7 +454,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -471,7 +471,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -488,7 +488,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -505,7 +505,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -522,7 +522,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -539,7 +539,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -556,7 +556,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -573,7 +573,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -590,7 +590,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -607,7 +607,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -624,7 +624,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   },
@@ -641,7 +641,7 @@
     "variant.inventory_policy": 1,
     "variant.inventory_quantity": 100,
     "price": 15,
-    "": 10,
+    "week_price": 10,
     "variant.product_url": "",
     "variant.image_full_url": ""
   }
