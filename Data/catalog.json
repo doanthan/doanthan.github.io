@@ -6,12 +6,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/nextech-1080p-smart-wi-fi-ip-bullet-camera-with-infrared-leds-smart-life-compatible-/p/QC3906",
     "image_link": "https://media.jaycar.com.au/product/images/QC3906_95614_thm.jpg?width=600&format=jpeg",
-    "price": "79.95",
-    "list_price": "79.95",
+    "price": 7995,
+    "list_price": 7995,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "0",
+    "inventory_quantity": 0,
     "attribute:currency": "AUD",
     "categories": [
       "IP Wireless Cameras",
@@ -23,8 +23,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "YM2716",
@@ -33,12 +32,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/12v-13800rpm-dc-electric-motor/p/YM2716",
     "image_link": "https://media.jaycar.com.au/product/images/YM2716_53828_thm.jpg?width=600&format=jpeg",
-    "price": "12.95",
-    "list_price": "12.95",
+    "price": 1295,
+    "list_price": 1295,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "95",
+    "inventory_quantity": 95,
     "attribute:currency": "AUD",
     "categories": [
       "Motors Servos Solenoids",
@@ -49,8 +48,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "WH3091",
@@ -59,12 +57,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/5-core-trailer-cable-10m/p/WH3091",
     "image_link": "https://media.jaycar.com.au/product/images/WH3091_83564_thm.jpg?width=600&format=jpeg",
-    "price": "39.95",
-    "list_price": "39.95",
+    "price": 3995,
+    "list_price": 3995,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "891",
+    "inventory_quantity": 891,
     "attribute:currency": "AUD",
     "categories": [
       "Trailer Lighting Car Wiring",
@@ -75,8 +73,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "SF2179",
@@ -85,12 +82,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/10a-m205-slow-blow-fuse/p/SF2179",
     "image_link": "https://media.jaycar.com.au/product/images/SF2179_113087_thm.jpg?width=600&format=jpeg",
-    "price": "1.6",
-    "list_price": "1.6",
+    "price": 160,
+    "list_price": 160,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "472",
+    "inventory_quantity": 472,
     "attribute:currency": "AUD",
     "categories": [
       "M205 Fuses",
@@ -101,8 +98,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "PA3674",
@@ -111,12 +107,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/f59-right-angle-plug-to-f81-socket/p/PA3674",
     "image_link": "https://media.jaycar.com.au/product/images/PA3674_82872_thm.jpg?width=600&format=jpeg",
-    "price": "5.95",
-    "list_price": "5.95",
+    "price": 595,
+    "list_price": 595,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "659",
+    "inventory_quantity": 659,
     "attribute:currency": "AUD",
     "categories": [
       "AV Cable",
@@ -136,8 +132,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "DC1116",
@@ -146,12 +141,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/charging-dock-to-suit-nextech-2w-uhf-transceiver/p/DC1116",
     "image_link": "https://media.jaycar.com.au/product/images/DC1116_89458_thm.jpg?width=600&format=jpeg",
-    "price": "5.95",
-    "list_price": "5.95",
+    "price": 595,
+    "list_price": 595,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "317",
+    "inventory_quantity": 317,
     "attribute:currency": "AUD",
     "categories": [
       "Computing Communication",
@@ -165,8 +160,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "PP0608",
@@ -175,12 +169,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/pal-tv-line-plug-with-integral-crimp-ring-and-centre-pin-rg6/p/PP0608",
     "image_link": "https://media.jaycar.com.au/product/images/PP0608_83021_thm.jpg?width=600&format=jpeg",
-    "price": "0.95",
-    "list_price": "0.95",
+    "price": 95,
+    "list_price": 95,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "1149",
+    "inventory_quantity": 1149,
     "attribute:currency": "AUD",
     "categories": [
       "PAL Coaxial",
@@ -191,8 +185,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "KJ8236",
@@ -201,12 +194,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/short-circuits-two-project-knight-rider-light-scanner/p/KJ8236",
     "image_link": "https://media.jaycar.com.au/product/images/KJ8236_26345_thm.jpg?width=600&format=jpeg",
-    "price": "20.95",
-    "list_price": "20.95",
+    "price": 2095,
+    "list_price": 2095,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "43",
+    "inventory_quantity": 43,
     "attribute:currency": "AUD",
     "categories": [
       "Short Circuits Projects",
@@ -217,8 +210,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "3171",
@@ -227,12 +219,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/monocure-3d-rapid-tuff-resin-1l-clear/p/003171",
     "image_link": "https://media.jaycar.com.au/product/images/003171_131474_thm.jpg?width=600&format=jpeg",
-    "price": "98.95",
-    "list_price": "98.95",
+    "price": 9895,
+    "list_price": 9895,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "0",
+    "inventory_quantity": 0,
     "attribute:currency": "AUD",
     "categories": [
       "Resin 3D Printing",
@@ -245,8 +237,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "HP0832",
@@ -255,12 +246,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/screw-on-equipment-feet-50mm/p/HP0832",
     "image_link": "https://media.jaycar.com.au/product/images/HP0832_82733_thm.jpg?width=600&format=jpeg",
-    "price": "11.95",
-    "list_price": "11.95",
+    "price": 1195,
+    "list_price": 1195,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "405",
+    "inventory_quantity": 405,
     "attribute:currency": "AUD",
     "categories": [
       "Panel Hardware",
@@ -271,8 +262,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "ZV1525",
@@ -281,12 +271,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/7905-5-volt-1a-voltage-regulator/p/ZV1525",
     "image_link": "https://media.jaycar.com.au/product/images/ZV1525_49692_thm.jpg?width=600&format=jpeg",
-    "price": "1.95",
-    "list_price": "1.95",
+    "price": 195,
+    "list_price": 195,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "552",
+    "inventory_quantity": 552,
     "attribute:currency": "AUD",
     "categories": [
       "Rectifiers Voltage Regulators",
@@ -297,8 +287,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "3115",
@@ -307,12 +296,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/sms-pearl-apple-green-30ml-/p/003115",
     "image_link": "https://media.jaycar.com.au/product/images/003115_131505_thm.jpg?width=600&format=jpeg",
-    "price": "9.95",
-    "list_price": "9.95",
+    "price": 994,
+    "list_price": 994,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "0",
+    "inventory_quantity": 0,
     "attribute:currency": "AUD",
     "categories": [
       "The Scale Modellers Supply Brand",
@@ -323,8 +312,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "CW2803",
@@ -333,12 +321,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/adjustable-tilt-and-swivel-speaker-wall-bracket-pair/p/CW2803",
     "image_link": "https://media.jaycar.com.au/product/images/CW2803_65453_thm.jpg?width=600&format=jpeg",
-    "price": "16.95",
-    "list_price": "16.95",
+    "price": 1695,
+    "list_price": 1695,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "330",
+    "inventory_quantity": 330,
     "attribute:currency": "AUD",
     "categories": [
       "Speakers Accessories",
@@ -352,8 +340,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "TH1997",
@@ -362,12 +349,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/mini-glue-gun/p/TH1997",
     "image_link": "https://media.jaycar.com.au/product/images/TH1997_34898_thm.jpg?width=600&format=jpeg",
-    "price": "14.95",
-    "list_price": "14.95",
+    "price": 1495,
+    "list_price": 1495,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "525",
+    "inventory_quantity": 525,
     "attribute:currency": "AUD",
     "categories": [
       "Tools",
@@ -380,8 +367,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "PS0518",
@@ -390,20 +376,19 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/2-5mm-chassis-male-dc-connector/p/PS0518",
     "image_link": "https://media.jaycar.com.au/product/images/PS0518_83210_thm.jpg?width=600&format=jpeg",
-    "price": "0.8",
-    "list_price": "1.5",
+    "price": 80,
+    "list_price": 150,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "0",
+    "inventory_quantity": 0,
     "attribute:currency": "AUD",
     "categories": ["DC Power", "Power Connectors", "Cables Connectors"],
     "location:city": "Sydney",
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "TL4077",
@@ -412,12 +397,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/duinotech-3d-printer-spare-nozzle/p/TL4077",
     "image_link": "https://media.jaycar.com.au/product/images/TL4077_77334_thm.jpg?width=600&format=jpeg",
-    "price": "9.95",
-    "list_price": "9.95",
+    "price": 994,
+    "list_price": 994,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "0",
+    "inventory_quantity": 0,
     "attribute:currency": "AUD",
     "categories": [
       "Filament 3D Printer Spare Parts",
@@ -428,8 +413,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "QC8200",
@@ -438,20 +422,19 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/nextech-1080p-clip-on-body-camera/p/QC8200",
     "image_link": "https://media.jaycar.com.au/product/images/QC8200_89474_thm.jpg?width=600&format=jpeg",
-    "price": "99.95",
-    "list_price": "99.95",
+    "price": 9995,
+    "list_price": 9995,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "0",
+    "inventory_quantity": 0,
     "attribute:currency": "AUD",
     "categories": ["Covert", "Security Cameras", "Security Surveillance"],
     "location:city": "Sydney",
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "HG9955",
@@ -460,20 +443,19 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/artwork-knife/p/HG9955",
     "image_link": "https://media.jaycar.com.au/product/images/HG9955_25502_thm.jpg?width=600&format=jpeg",
-    "price": "7.5",
-    "list_price": "7.5",
+    "price": 750,
+    "list_price": 750,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "993",
+    "inventory_quantity": 993,
     "attribute:currency": "AUD",
     "categories": ["Pliers Cutters", "Tools", "Tools Test Equipment"],
     "location:city": "Sydney",
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "YM2756",
@@ -482,20 +464,19 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/nema17-stepper-motor/p/YM2756",
     "image_link": "https://media.jaycar.com.au/product/images/YM2756_86530_thm.jpg?width=600&format=jpeg",
-    "price": "29.95",
-    "list_price": "29.95",
+    "price": 2995,
+    "list_price": 2995,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "318",
+    "inventory_quantity": 318,
     "attribute:currency": "AUD",
     "categories": ["Motors Servos Solenoids", "Mechatronics"],
     "location:city": "Sydney",
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "AM4131",
@@ -504,12 +485,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/digitech-stereo-tie-clasp-microphone/p/AM4131",
     "image_link": "https://media.jaycar.com.au/product/images/AM4131_74961_thm.jpg?width=600&format=jpeg",
-    "price": "29.95",
-    "list_price": "29.95",
+    "price": 2995,
+    "list_price": 2995,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "655",
+    "inventory_quantity": 655,
     "attribute:currency": "AUD",
     "categories": [
       "Sound Video",
@@ -521,8 +502,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "LF1284",
@@ -531,12 +511,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/26-way-flat-ribbon-cable-suppression-sleeve-each/p/LF1284",
     "image_link": "https://media.jaycar.com.au/product/images/LF1284_41785_thm.jpg?width=600&format=jpeg",
-    "price": "9.95",
-    "list_price": "9.95",
+    "price": 994,
+    "list_price": 994,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "107",
+    "inventory_quantity": 107,
     "attribute:currency": "AUD",
     "categories": [
       "Ferrite Bars Beads Sleeves Cores",
@@ -548,8 +528,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "AR3334",
@@ -558,12 +537,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/sma-adaptor-to-sierra-ts9-plug/p/AR3334",
     "image_link": "https://media.jaycar.com.au/product/images/AR3334_66376_thm.jpg?width=600&format=jpeg",
-    "price": "32.95",
-    "list_price": "32.95",
+    "price": 3295,
+    "list_price": 3295,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "607",
+    "inventory_quantity": 607,
     "attribute:currency": "AUD",
     "categories": [
       "Computing Communication",
@@ -578,8 +557,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "PP0503",
@@ -588,20 +566,19 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/0-7mm-dc-power-line-connector/p/PP0503",
     "image_link": "https://media.jaycar.com.au/product/images/PP0503_82999_thm.jpg?width=600&format=jpeg",
-    "price": "2.75",
-    "list_price": "2.75",
+    "price": 275,
+    "list_price": 275,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "500",
+    "inventory_quantity": 500,
     "attribute:currency": "AUD",
     "categories": ["DC Power", "Power Connectors", "Cables Connectors"],
     "location:city": "Sydney",
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "SZ2045",
@@ -610,12 +587,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/30a-32vdc-stackable-inline-standard-blade-fuse-holder/p/SZ2045",
     "image_link": "https://media.jaycar.com.au/product/images/SZ2045_30865_thm.jpg?width=600&format=jpeg",
-    "price": "6.5",
-    "list_price": "6.5",
+    "price": 650,
+    "list_price": 650,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "518",
+    "inventory_quantity": 518,
     "attribute:currency": "AUD",
     "categories": [
       "Fuses Relays",
@@ -629,8 +606,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "MB3736",
@@ -639,12 +615,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/12v-17ah-jump-starter-with-air-comp-usb-led-light/p/MB3736",
     "image_link": "https://media.jaycar.com.au/product/images/MB3736_75982_thm.jpg?width=600&format=jpeg",
-    "price": "259",
-    "list_price": "259",
+    "price": 25900,
+    "list_price": 25900,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "0",
+    "inventory_quantity": 0,
     "attribute:currency": "AUD",
     "categories": [
       "Jump Starters Battery Care",
@@ -655,8 +631,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "QC9508",
@@ -665,12 +640,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/uniden-4k-nvr-bullet-ip-camera-with-floodlight-appcame-4kbullet-s/p/QC9508",
     "image_link": "https://media.jaycar.com.au/product/images/QC9508_121627_thm.jpg?width=600&format=jpeg",
-    "price": "209",
-    "list_price": "299",
+    "price": 20900,
+    "list_price": 29900,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "0",
+    "inventory_quantity": 0,
     "attribute:currency": "AUD",
     "categories": [
       "Bullet Cameras",
@@ -681,8 +656,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "SB1654",
@@ -691,12 +665,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/uniden-cordless-phone-battery-2-4v-ni-mh-650mah-ctb96-65aaah2bmj/p/SB1654",
     "image_link": "https://media.jaycar.com.au/product/images/SB1654_34601_thm.jpg?width=600&format=jpeg",
-    "price": "29.95",
-    "list_price": "29.95",
+    "price": 2995,
+    "list_price": 2995,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "1247",
+    "inventory_quantity": 1247,
     "attribute:currency": "AUD",
     "categories": [
       "Ni MH Ni Cd Batteries",
@@ -707,8 +681,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "PT4810",
@@ -717,12 +690,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/piggy-back-female-spade-red-packet-of-8-self-sealing-quick-connectors/p/PT4810",
     "image_link": "https://media.jaycar.com.au/product/images/PT4810_83448_thm.jpg?width=600&format=jpeg",
-    "price": "10.5",
-    "list_price": "10.5",
+    "price": 1050,
+    "list_price": 1050,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "1",
+    "inventory_quantity": 1,
     "attribute:currency": "AUD",
     "categories": [
       "Crimp Lugs Terminals",
@@ -733,8 +706,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "ZC4857",
@@ -743,12 +715,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/74hc164-8-bit-serial-in-out-shift-register-ic/p/ZC4857",
     "image_link": "https://media.jaycar.com.au/product/images/ZC4857_49686_thm.jpg?width=600&format=jpeg",
-    "price": "2.45",
-    "list_price": "2.45",
+    "price": 245,
+    "list_price": 245,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "0",
+    "inventory_quantity": 0,
     "attribute:currency": "AUD",
     "categories": [
       "Logic ICs",
@@ -759,8 +731,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "WH5636",
@@ -769,12 +740,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/self-closing-braided-wire-wrap-19mm-x-2m/p/WH5636",
     "image_link": "https://media.jaycar.com.au/product/images/WH5636_36350_thm.jpg?width=600&format=jpeg",
-    "price": "17.95",
-    "list_price": "17.95",
+    "price": 1795,
+    "list_price": 1795,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "1179",
+    "inventory_quantity": 1179,
     "attribute:currency": "AUD",
     "categories": [
       "Cable Ties Wraps Grommets",
@@ -785,8 +756,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "LT3141",
@@ -795,12 +765,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/outdoor-omni-directional-uhf-vhf-amplified-digital-antenna/p/LT3141",
     "image_link": "https://media.jaycar.com.au/product/images/LT3141_26969_thm.jpg?width=600&format=jpeg",
-    "price": "99",
-    "list_price": "109",
+    "price": 9900,
+    "list_price": 10900,
     "price_description": "You are saving $10",
     "attribute:savingPriceExpiration": "Valid until 10/11/2024 while stocks last",
     "attribute:formattedPrice": "SAVE $10",
-    "inventory_quantity": "1239",
+    "inventory_quantity": 1239,
     "attribute:currency": "AUD",
     "categories": [
       "Antenna Accessories",
@@ -813,8 +783,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "TL4553",
@@ -823,12 +792,12 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/voxelab-aquila-x2-spare-main-board/p/TL4553",
     "image_link": "https://media.jaycar.com.au/product/images/TL4553_119943_thm.jpg?width=600&format=jpeg",
-    "price": "119",
-    "list_price": "119",
+    "price": 11900,
+    "list_price": 11900,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "4",
+    "inventory_quantity": 4,
     "attribute:currency": "AUD",
     "categories": [
       "Filament 3D Printer Spare Parts",
@@ -839,8 +808,7 @@
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   },
   {
     "﻿id": "PS4125",
@@ -849,19 +817,18 @@
     "attribute:archived": "FALSE",
     "link": "https://www.jaycar.com.au/3m-white-mains-extension-cable/p/PS4125",
     "image_link": "https://media.jaycar.com.au/product/images/PS4125_53604_thm.jpg?width=600&format=jpeg",
-    "price": "8.95",
-    "list_price": "8.95",
+    "price": 894,
+    "list_price": 894,
     "price_description": "",
     "attribute:savingPriceExpiration": "",
     "attribute:formattedPrice": "",
-    "inventory_quantity": "1613",
+    "inventory_quantity": 1613,
     "attribute:currency": "AUD",
     "categories": ["Extension Leads", "Mains Accessories", "Power Batteries"],
     "location:city": "Sydney",
     "location:state": "NSW",
     "location:countryCode": "AU",
     "location:postalCode": "2766",
-    "attribute:expiration": "",
-    "relatedCatalogObject:ItemClass": ""
+    "inventory_policy": 1
   }
 ]
