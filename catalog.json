@@ -6,7 +6,8 @@
     "price": 599,
     "link": "https://www.barbequesgalore.com.au/p/connoisseur-4-burner-bbq-with-side-burner/G4CNSQ.html",
     "image_link": "https://www.barbequesgalore.com.au/on/demandware.static/-/Sites-bbqg-master-catalog/default/dw5c4ff1b7/images/G4CNSQ/G4CNSQ_01.jpg",
-    "Brand": "Connoisseur"
+    "Brand": "Connoisseur",
+    "description": "This is the best BBQ in the world"
   },
   {
     "id": "TRGPELHIC9",
@@ -15,7 +16,8 @@
     "price": 41.95,
     "link": "https://www.barbequesgalore.com.au/p/traeger-hickory-pellets-9kg/TRGPELHIC9.html",
     "image_link": "https://www.barbequesgalore.com.au/on/demandware.static/-/Sites-bbqg-master-catalog/default/dwa2db9be4/images/TRGPELHIC/TRGPELHIC_01.jpg",
-    "Brand": "Traeger"
+    "Brand": "Traeger",
+    "description": "This is the best BBQ in the world"
   },
   {
     "id": "WESCHIPSCHE",
@@ -24,7 +26,8 @@
     "price": 19.95,
     "link": "https://www.barbequesgalore.com.au/p/western-premium-smoking-wood-chips---cherry/WESCHIPSCHE.html",
     "image_link": "https://www.barbequesgalore.com.au/on/demandware.static/-/Sites-bbqg-master-catalog/default/dw41a313d7/images/WESCHIPSCHE/WESCHIPSCHE_01.jpg",
-    "Brand": "Western Premium"
+    "Brand": "Western Premium",
+    "description": "This is the best BBQ in the world"
   },
   {
     "id": "ONLINEGAS4",
