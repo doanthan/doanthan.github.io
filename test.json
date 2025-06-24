@@ -1,5 +1,5 @@
 {
-  "us": "https://camilla.com/",
-  "au": "https://au.camilla.com/",
-  "uk": "https://uk.camilla.com/"
+  "action": "ABC123",
+  "reserve": 5000,
+  "highest_bid": 3000
 }
